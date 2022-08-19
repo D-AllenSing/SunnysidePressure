@@ -1,0 +1,33 @@
+body {
+  font-family: "Open Sans", sans-serif;
+}
+
+h1,
+h2,
+h3 {
+  font-family: "Lobster", cursive;
+}
+
+h2 {
+  color: limegreen;
+}
+
+header h2 {
+  color: brown;
+}
+
+footer {
+  background-image: repeating-linear-gradient(#cec8ff, yellow);
+}
+h3 {
+  color: forestgreen;
+}
+
+.navbar {
+  background-image: repeating-linear-gradient(#cec8ff, yellow);
+}
+
+.jumbotron {
+  margin: 0;
+  background-image: repeating-linear-gradient(#cec8ff, yellow);
+}
